@@ -1,0 +1,20 @@
+[package]
+name = "pwnage"
+version = "0.0.1"
+authors = ["cak <cak@fastmail.com>"]
+edition = "2018"
+description = "Have I Been Pwned API v3"
+repository = "https://github.com/OptionalValue/pwnage.rs"
+keywords = ["Have I Been Pwned", "HIBP"]
+license = "MIT"
+
+[dependencies]
+chrono = { version = "0.4", features = ["serde"] }
+reqwest = "0.9"
+serde = "1.0"
+serde_json = "1.0"
+sha-1 = "0.8"
+hyper = "0.12"
+percent-encoding = "2.1"
+
+
