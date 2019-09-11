@@ -5,7 +5,7 @@ authors = ["cak <cak@fastmail.com>"]
 edition = "2018"
 description = "Have I Been Pwned API v3"
 repository = "https://github.com/OptionalValue/pwnage.rs"
-keywords = ["Have I Been Pwned", "HIBP"]
+keywords = ["HaveIBeenPwned", "HIBP"]
 license = "MIT"
 
 [dependencies]
@@ -16,5 +16,3 @@ serde_json = "1.0"
 sha-1 = "0.8"
 hyper = "0.12"
 percent-encoding = "2.1"
-
-
