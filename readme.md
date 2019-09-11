@@ -1,4 +1,5 @@
 # pwnage.rs 
+[![crates.io](https://img.shields.io/crates/v/pwnage.svg)](https://crates.io/crates/reqwest)
 
 Have I Been Pwned API v3 library
 
